@@ -27,4 +27,4 @@ The "Emo Face" project is an innovative application that employs Convolutional N
 
 ## Author
 
-** Shashank V
+* **Shashank V
